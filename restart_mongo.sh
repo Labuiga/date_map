@@ -1,0 +1,2 @@
+docker stop date_map_mongo
+docker start date_map_mongo
